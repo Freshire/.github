@@ -20,8 +20,8 @@ Freshire is a platform designed for freelancers to work on **real-world projects
 Freshire is more than just freelancing—it’s a **vision to create, innovate, and empower** individuals in the digital era.  
 
 🔗 **Follow & Connect**  
-🌐 Website: [Coming Soon]  
-🐙 GitHub: [Your GitHub Link]  
-📧 Contact: [Your Email or Social Media]  
+🌐 Website: freshire.org  
+🐙 GitHub: github.com/freshire
+📧 Contact: freshireofficial@gmail.com
 
 🚀 **Let's build the future together!**  
